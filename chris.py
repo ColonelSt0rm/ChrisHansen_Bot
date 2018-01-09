@@ -7,7 +7,7 @@ import logging
 from difflib import SequenceMatcher
 
 
-defaultserv = 'garden_of_eden'
+defaultserv = 'general_weebery'
 
 logging.basicConfig(level=logging.INFO)
 
